@@ -1,0 +1,6 @@
+This is memo2.txt. This is a new file.
+
+
+This is actually memo3.txt
+
+This is memo4.txt. This comment was made at 2.3.2017 15:51.
